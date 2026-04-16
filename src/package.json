@@ -10,7 +10,7 @@
     "type": "git",
     "url": "git+https://github.com/NotReallyJustin/mavlink-schema.git"
   },
-  "license": "MIT",
+  "license": "Unlicense",
   "author": "Justin",
   "type": "module",
   "main": "index.js",
