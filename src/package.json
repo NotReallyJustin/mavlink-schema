@@ -11,10 +11,10 @@
     "url": "git+https://github.com/NotReallyJustin/mavlink-schema.git"
   },
   "license": "Unlicense",
-  "author": "Justin",
+  "author": "Justin Chen",
   "type": "module",
-  "main": "index.js",
+  "main": "sortDefs.js",
   "dependencies": {
-    "jstoxml": "^7.1.0"
+    "fast-xml-parser": "^5.6.0"
   }
 }
